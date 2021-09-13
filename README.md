@@ -11,10 +11,13 @@
 **Field of interests**: Full Stack Development, Mobile app development , Deep Learning, AI, Blockchain
 
 ### Skills 🛠️
-- **Languages**:        Python
+- **Languages**:        Python, Javascript, Java, Solidity, C++
 - **DS/ML/DL**: &nbsp;  Tensorflow, NumPy, SciPy, Pandas, Scikit-Learn, PyTorch
 - **RDBMS**:   &nbsp;   Oracle, MS SQL, PostgreSQL
 - **High Performance DB**: &nbsp;  Elastic Search, AWS (Elastic Search), 
+- **Server Technology**: AWS, NodeJs, DenoJs, Loopback, Express, PHP
+- **Web-Mobile Technology**: ReactJs, React Native, Android Studio
+- **Other Technologies**: Web3, Adobe, Firebase, AWS
 - **DevOps**:  &nbsp;   [Linux](https://www.imper.in), [Git](https://www.imper.in), Docker, REST API, CLI
 
 ### Work experience 👔
